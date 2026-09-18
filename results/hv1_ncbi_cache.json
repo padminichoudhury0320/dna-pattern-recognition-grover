@@ -1,0 +1,178 @@
+[
+  {
+    "id": "JX120769.1",
+    "name": "JX120769",
+    "description": "Homo sapiens isolate FTDNA 176370 mitochondrion, complete ge",
+    "sequence": "GGAAGCAG",
+    "binary": "1010000010110010",
+    "int_index": 41138,
+    "hv1_preview": "TCTTTCATGGGGAAGCAGAT...",
+    "source": "NCBI GenBank",
+    "full_length": 16568
+  },
+  {
+    "id": "KC533516.1",
+    "name": "KC533516",
+    "description": "Homo sapiens isolate Patient84 mitochondrion, complete genom",
+    "sequence": "GAAGCAGA",
+    "binary": "1000001011001000",
+    "int_index": 33480,
+    "hv1_preview": "CTTTCATGGGGAAGCAGATT...",
+    "source": "NCBI GenBank",
+    "full_length": 16567
+  },
+  {
+    "id": "KC533514.1",
+    "name": "KC533514",
+    "description": "Homo sapiens isolate Patient82 mitochondrion, complete genom",
+    "sequence": "GCAGATTT",
+    "binary": "1011001000010101",
+    "int_index": 45589,
+    "hv1_preview": "TCATGGGGAAGCAGATTTGG...",
+    "source": "NCBI GenBank",
+    "full_length": 16564
+  },
+  {
+    "id": "KC533510.1",
+    "name": "KC533510",
+    "description": "Homo sapiens isolate Patient77 mitochondrion, complete genom",
+    "sequence": "AAGCAGAT",
+    "binary": "0000101100100001",
+    "int_index": 2849,
+    "hv1_preview": "TTTCATGGGGAAGCAGATTT...",
+    "source": "NCBI GenBank",
+    "full_length": 16566
+  },
+  {
+    "id": "AY195773.1",
+    "name": "AY195773",
+    "description": "Homo sapiens haplotype E18X mitochondrion, complete genome",
+    "sequence": "GGGAAGCA",
+    "binary": "1010100000101100",
+    "int_index": 43052,
+    "hv1_preview": "TTCTTTCATGGGGAAGCAGA...",
+    "source": "NCBI GenBank",
+    "full_length": 16569
+  },
+  {
+    "id": "CP139510.1",
+    "name": "CP139510",
+    "description": "Homo sapiens isolate NA24385 mitochondrion, complete genome",
+    "sequence": "TCCATGCA",
+    "binary": "0111110001101100",
+    "int_index": 31852,
+    "hv1_preview": "ACGGGAGCTCTCCATGCATT...",
+    "source": "NCBI GenBank",
+    "full_length": 16570
+  },
+  {
+    "id": "PP567309.1",
+    "name": "PP567309",
+    "description": "Homo sapiens haplogroup K1a13a2a2 mitochondrion, complete ge",
+    "sequence": "GGGGAAGC",
+    "binary": "1010101000001011",
+    "int_index": 43531,
+    "hv1_preview": "GTTCTTTCATGGGGAAGCAG...",
+    "source": "NCBI GenBank",
+    "full_length": 16570
+  },
+  {
+    "id": "MT365004.1",
+    "name": "MT365004",
+    "description": "Homo sapiens haplogroup H6b1 mitochondrion, complete genome",
+    "sequence": "ATGGGGAA",
+    "binary": "0001101010100000",
+    "int_index": 6816,
+    "hv1_preview": "CTGTTCTTTCATGGGGAAGC...",
+    "source": "NCBI GenBank",
+    "full_length": 16572
+  },
+  {
+    "id": "KX834327.1",
+    "name": "KX834327",
+    "description": "Homo sapiens haplogroup H7e mitochondrion, complete genome",
+    "sequence": "CATGGGGA",
+    "binary": "1100011010101000",
+    "int_index": 50856,
+    "hv1_preview": "TCTGTTCTTTCATGGGGAAG...",
+    "source": "NCBI GenBank",
+    "full_length": 16573
+  },
+  {
+    "id": "AY195770.2",
+    "name": "AY195770",
+    "description": "Homo sapiens haplotype As3B mitochondrion, complete genome",
+    "sequence": "ATTTGGGT",
+    "binary": "0001010110101001",
+    "int_index": 5545,
+    "hv1_preview": "GGGGAAGCAGATTTGGGTAC...",
+    "source": "NCBI GenBank",
+    "full_length": 16560
+  },
+  {
+    "id": "MG652751.1",
+    "name": "MG652751",
+    "description": "Homo sapiens isolate MXKSS_P3_C1d haplogroup C1d mitochondri",
+    "sequence": "AGCAGATT",
+    "binary": "0010110010000101",
+    "int_index": 11397,
+    "hv1_preview": "TTCATGGGGAAGCAGATTTG...",
+    "source": "NCBI GenBank",
+    "full_length": 16565
+  },
+  {
+    "id": "KT698031.2",
+    "name": "KT698031",
+    "description": "Homo sapiens isolate 170_Sb haplogroup U2e1b1 mitochondrion,",
+    "sequence": "TGGGGAAG",
+    "binary": "0110101010000010",
+    "int_index": 27266,
+    "hv1_preview": "TGTTCTTTCATGGGGAAGCA...",
+    "source": "NCBI GenBank",
+    "full_length": 16571
+  },
+  {
+    "id": "MN857403.2",
+    "name": "MN857403",
+    "description": "Homo sapiens isolate CAJ024_Cajamarca mitochondrion, complet",
+    "sequence": "GATTTGGG",
+    "binary": "1000010101101010",
+    "int_index": 34154,
+    "hv1_preview": "TGGGGAAGCAGATTTGGGTG...",
+    "source": "NCBI GenBank",
+    "full_length": 16562
+  },
+  {
+    "id": "PV560130.1",
+    "name": "PV560130",
+    "description": "Homo sapiens isolate ZX057 haplogroup L2a1g mitochondrion, c",
+    "sequence": "TGGGGGAG",
+    "binary": "0110101010100010",
+    "int_index": 27298,
+    "hv1_preview": "TGTTCTTTCATGGGGGAGCA...",
+    "source": "NCBI GenBank",
+    "full_length": 16571
+  },
+  {
+    "id": "PV560068.1",
+    "name": "PV560068",
+    "description": "Homo sapiens isolate Vinet61 haplogroup L0a2a2a mitochondrio",
+    "sequence": "TTTGGGTA",
+    "binary": "0101011010100100",
+    "int_index": 22180,
+    "hv1_preview": "GGGAAGCAGATTTGGGTACC...",
+    "source": "NCBI GenBank",
+    "full_length": 16559
+  },
+  {
+    "id": "PV560064.1",
+    "name": "PV560064",
+    "description": "Homo sapiens isolate Vinet50 haplogroup L0d1b2b2b mitochondr",
+    "sequence": "GGAGCAGA",
+    "binary": "1010001011001000",
+    "int_index": 41672,
+    "hv1_preview": "CTTTCATGGGGGAGCAGATT...",
+    "source": "NCBI GenBank",
+    "full_length": 16567
+  }
+]

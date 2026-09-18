@@ -1,0 +1,39 @@
+__pycache__/
+*.py[cod]
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+# IDE / editor files
+.vscode/
+.idea/
+*.code-workspace
+# Temporary files
+*~
+*.tmp
+*.temp
+tempCodeRunnerFile.py
+# Environment / secrets
+.env
+*.env
+# Generated logs and outputs
+logs/
+runs/
+output.txt
+# Generated media
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.wav
+# Machine-learning model files
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.pickle
+# OS files
+.DS_Store
+Thumbs.db
